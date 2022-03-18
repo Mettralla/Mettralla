@@ -6,8 +6,6 @@
   A fullstack python developer student from Salta, Argentina.
 </p>
 
-
-
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/daniel-alejandro-tejerina/">
@@ -19,14 +17,8 @@
   <a href="https://mettralla.itch.io">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
   </a>&nbsp;&nbsp;
-  
-
-  
+    
 </p>
-
-<!-- <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mettralla&theme=blue-green" width="350"></a>
-</p> -->
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mettralla&show_icons=true&count_private=true&theme=dark" width="350"></a>
@@ -40,12 +32,26 @@
   <img src="https://img.shields.io/badge/nvidia-gt%20710-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
+<p align='center'>
+  📘 Currently learning<br/><br/>
+  <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align='center'>
+  🎨 Design<br/><br/>
+  <img align="center" src="https://img.shields.io/badge/Illustrator-E34F26?style=for-the-badge&logo=&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Photoshop-1572B6?style=for-the-badge&logo=ps&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Indesign-CC6699?style=for-the-badge&logo=&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/SAI-239120?style=for-the-badge&logo=&logoColor=white" />
+</p>
+
 <!-- <details align='center'>
   <summary>:zap: My workspace specs</summary>
 </details>-->
-
-<!-- <details>
-  <summary>📃 Resume</summary> -->
 
 <!--
 **Mettralla/Mettralla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
