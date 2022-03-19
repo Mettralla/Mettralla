@@ -14,9 +14,9 @@
   <a href="mailto:danieltejerina0493@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://mettralla.itch.io">
+<!--   <a href="https://mettralla.itch.io">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
     
 </p>
 
