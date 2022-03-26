@@ -17,7 +17,6 @@
 <!--   <a href="https://mettralla.itch.io">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
   </a>&nbsp;&nbsp; -->
-    
 </p>
 
 <p align='center'>
@@ -46,6 +45,10 @@
   <img align="center" src="https://img.shields.io/badge/Photoshop-1572B6?style=for-the-badge&logo=ps&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Indesign-CC6699?style=for-the-badge&logo=&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/SAI-239120?style=for-the-badge&logo=&logoColor=white" />
+</p>
+<br>
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/Mettralla/Mettralla"></a>
 </p>
 
 <!-- <details align='center'>
