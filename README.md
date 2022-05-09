@@ -30,6 +30,23 @@
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gt%20710-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
+<!-- 
+<details align='left'>
+<summary>📃 Resume</summary>
+
+  ## Education
+
+- 📖 **Tecnicatura Superior en Artes Visuales y Diseño Grafico**\
+📆 2018 - 2022\  
+💻 <img src="https://aleen42.github.io/badges/src/photoshop.svg"/> <br>
+📍 **Escuela Provincial de Bellas Artes - Tomas Cabrera** - Salta, Argentina
+
+- 📖 **Tecnicatura Superior de Tecnologia Aplicada al Agro**\
+📆 2022 - moment\
+📍 **Instituto Superior Politecnico de Cordoba** - Cordoba, Argentina
+
+  <p> shdsgjakfds </p>
+</details> -->
 
 <p align='center'>
   📘 Currently learning<br/><br/>
@@ -50,7 +67,3 @@
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/Mettralla/Mettralla"></a>
 </p>
-
-<!-- <details align='center'>
-  <summary>:zap: My workspace specs</summary>
-</details>-->
