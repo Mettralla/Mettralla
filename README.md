@@ -63,7 +63,7 @@
   <img align="center" src="https://img.shields.io/badge/Indesign-CC6699?style=for-the-badge&logo=&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/SAI-239120?style=for-the-badge&logo=&logoColor=white" />
 </p>
-<br>
+<!--<br>
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/Mettralla/Mettralla"></a>
-</p>
+</p>-->
