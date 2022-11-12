@@ -7,21 +7,19 @@
 </p>
 
 <p align='center'>
-  
   <a href="https://www.linkedin.com/in/daniel-alejandro-tejerina/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:danieltejerina0493@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-<!--   <a href="https://mettralla.itch.io">
-    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
-  </a>&nbsp;&nbsp; -->
 </p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mettralla&show_icons=true&count_private=true&theme=midnight-purple" width="350"></a>
 </p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mettralla&layout=compact&theme=midnight-purple" width="350"></a>
+</p>
+
 
 <p align='center'>
   💻 My workspace<br/><br/>
