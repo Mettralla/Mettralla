@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A fullstack python developer student from Salta, Argentina.
+  A fullstack developer student from Salta, Argentina.
 </p>
 
 <p align='center'>
@@ -30,40 +30,54 @@
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gt%20710-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
-<!-- 
+
 <details align='left'>
 <summary>📃 Resume</summary>
 
   ## Education
 
-- 📖 **Tecnicatura Superior en Artes Visuales y Diseño Grafico**\
-📆 2018 - 2022\  
-💻 <img src="https://aleen42.github.io/badges/src/photoshop.svg"/> <br>
+📖 **Tecnicatura Superior en Artes Visuales y Diseño Grafico** (2018 - 2022)\
 📍 **Escuela Provincial de Bellas Artes - Tomas Cabrera** - Salta, Argentina
+<p align="left" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai,blender,html,css">
+  </a>
+</p>
 
-- 📖 **Tecnicatura Superior de Tecnologia Aplicada al Agro**\
-📆 2022 - moment\
+
+📖 **Tecnicatura Superior de Tecnologia Aplicada al Agro** (2022 - moment)\
 📍 **Instituto Superior Politecnico de Cordoba** - Cordoba, Argentina
+<p align="left" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mysql,qt">
+  </a>
+</p>
+  
+ ## Courses
 
-  <p> shdsgjakfds </p>
-</details> -->
-
-<p align='center'>
-  📘 Currently learning<br/><br/>
-  <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+📖 **Curso de Introduccion a la Programacion con Python** (2021)\
+📍 **Universidad Nacional de Salta** - Salta, Argentina
+<p align="left" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,sqlite">
+  </a>
 </p>
 
-<p align='center'>
-  🎨 Design<br/><br/>
-  <img align="center" src="https://img.shields.io/badge/Illustrator-E34F26?style=for-the-badge&logo=&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Photoshop-1572B6?style=for-the-badge&logo=ps&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/Indesign-CC6699?style=for-the-badge&logo=&logoColor=white" />
-  <img align="center" src="https://img.shields.io/badge/SAI-239120?style=for-the-badge&logo=&logoColor=white" />
+
+📖 **Fullstack con Python** (2022)\
+📍 **Agencia de Aprendizaje a lo Largo de la Vida** - Ciudad de Buenos Aires, Argentina
+<p align="left" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,py,mysql,django">
+  </a>
 </p>
-<!--<br>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/Mettralla/Mettralla"></a>
-</p>-->
+  
+📖 **Fullstack con Ruby on Rails** (2022 - moment)\
+📍 **The Odin Project**
+<p align="left" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ruby,rails,postgresql">
+  </a>
+</p>
+  
+</details>
