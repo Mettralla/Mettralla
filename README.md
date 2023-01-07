@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/nvidia-gt%20710-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<details align='left'>
+<!-- <details align='left'>
 <summary>📃 Resume</summary>
 
   ## Education
@@ -78,4 +78,4 @@
   </a>
 </p>
   
-</details>
+</details> -->
