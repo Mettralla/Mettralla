@@ -1,9 +1,9 @@
 <h1 align='center'>
-  Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30"> I'm Daniel
+  Hola <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30"> Soy Daniel
 </h1>
 
 <p align='center'>
-  A fullstack developer student from Salta, Argentina.
+  Un estudiante de Desarrollo de Software de Salta, Argentina.
 </p>
 
 <p align='center'>
@@ -12,70 +12,49 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mettralla&show_icons=true&count_private=true&theme=midnight-purple" width="350"></a>
-</p>
+
+<div align= 'center'>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mettralla&layout=compact&theme=midnight-purple" width="350"></a><br/>
+</div>
+  <!--<td align='center'><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mettralla&show_icons=true&count_private=true&theme=midnight-purple" width="350"></a></td>-->
+<br/>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mettralla&layout=compact&theme=midnight-purple" width="350"></a>
-</p>
-
-
-<p align='center'>
-  💻 My workspace<br/><br/>
+  💻 Espacio de Trabajo<br/><br/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Intel-Core_i5_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gt%20710-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-<!-- <details align='left'>
-<summary>📃 Resume</summary>
-
-  ## Education
-
-📖 **Tecnicatura Superior en Artes Visuales y Diseño Grafico** (2018 - 2022)\
-📍 **Escuela Provincial de Bellas Artes - Tomas Cabrera** - Salta, Argentina
-<p align="left" >
+<p align="center">
+  💻 Conocimientos<br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,blender,html,css">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ruby,rails,python,django,cpp" />
   </a>
 </p>
 
 
-📖 **Tecnicatura Superior de Tecnologia Aplicada al Agro** (2022 - moment)\
-📍 **Instituto Superior Politecnico de Cordoba** - Cordoba, Argentina
-<p align="left" >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,qt">
-  </a>
+<p align="center">
+  💻 Proyectos:<br/>
 </p>
+
+<div align="center">
+
   
- ## Courses
+<a href="https://github.com/Mettralla/WebApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=WebApp&theme=tokyonight" />
+</a>
 
-📖 **Curso de Introduccion a la Programacion con Python** (2021)\
-📍 **Universidad Nacional de Salta** - Salta, Argentina
-<p align="left" >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sqlite">
-  </a>
-</p>
+<a href="https://github.com/Mettralla/old_alkemy_challenge_disney_api">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=old_alkemy_challenge_disney_api&theme=tokyonight" />
+</a>
 
+<a href="https://github.com/Mettralla/GGJ-Heaven-or-Hell">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=GGJ-Heaven-or-Hell&theme=tokyonight" />
+</a>
 
-📖 **Fullstack con Python** (2022)\
-📍 **Agencia de Aprendizaje a lo Largo de la Vida** - Ciudad de Buenos Aires, Argentina
-<p align="left" >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,py,mysql,django">
-  </a>
-</p>
-  
-📖 **Fullstack con Ruby on Rails** (2022 - moment)\
-📍 **The Odin Project**
-<p align="left" >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ruby,rails,postgresql">
-  </a>
-</p>
-  
-</details> -->
+<a href="https://github.com/Mettralla/QuarkDesafio">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=QuarkDesafio&theme=tokyonight" />
+</a>
+</div>
