@@ -46,15 +46,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=WebApp&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/Mettralla/QuarkDesafio">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=QuarkDesafio&theme=tokyonight" />
+</a>
+
 <a href="https://github.com/Mettralla/old_alkemy_challenge_disney_api">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=old_alkemy_challenge_disney_api&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Mettralla/GGJ-Heaven-or-Hell">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=GGJ-Heaven-or-Hell&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Mettralla/QuarkDesafio">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=QuarkDesafio&theme=tokyonight" />
 </a>
 </div>
