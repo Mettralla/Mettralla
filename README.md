@@ -12,9 +12,8 @@
   </a>&nbsp;&nbsp;
 </p>
 
-
 <div align= 'center'>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mettralla&layout=compact&theme=midnight-purple" width="350"></a><br/>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mettralla&layout=compact&theme=midnight-purple"></a><br/>
 </div>
   <!--<td align='center'><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mettralla&show_icons=true&count_private=true&theme=midnight-purple" width="350"></a></td>-->
 <br/>
@@ -43,18 +42,18 @@
 
   
 <a href="https://github.com/Mettralla/WebApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=WebApp&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=WebApp&theme=midnight-purple" />
 </a>
 
 <a href="https://github.com/Mettralla/QuarkDesafio">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=QuarkDesafio&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=QuarkDesafio&theme=midnight-purple" />
 </a>
 
 <a href="https://github.com/Mettralla/old_alkemy_challenge_disney_api">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=old_alkemy_challenge_disney_api&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=old_alkemy_challenge_disney_api&theme=midnight-purple" />
 </a>
 
 <a href="https://github.com/Mettralla/GGJ-Heaven-or-Hell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=GGJ-Heaven-or-Hell&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=GGJ-Heaven-or-Hell&theme=midnight-purple" />
 </a>
 </div>
