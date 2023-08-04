@@ -30,7 +30,7 @@
 ## 🌱 I'm currently learning
 
 - Vue.js
-- Hotwire
+- Jekyll
 - Algorithmic & Data Structures 
 
 ## 💻 My Workplace
