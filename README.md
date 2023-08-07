@@ -25,11 +25,9 @@
 
 - [Cooking Recipe Manager](https://github.com/Mettralla/recetario_cocina_app) (Revamping an old cooking recipe manager project, transitioning from CSV files to a MySQL database implementation) 
 - Personal Porfolio
-- Coupon Tracker
 
 ## 🌱 I'm currently learning
 
-- Vue.js
 - Jekyll
 - Algorithmic & Data Structures 
 
