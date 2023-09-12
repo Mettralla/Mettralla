@@ -89,26 +89,26 @@
 ## 📈 GitHub Stats 
 
 <div align= 'center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mettralla&layout=compact&theme=midnight-purple"></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mettralla&show_icons=true&count_private=true&theme=midnight-purple" width="395"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mettralla&layout=compact"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Mettralla&show_icons=true&count_private=true" width="395"></a>
 </div>
 
 ## 📝 Proyectos
 <div align="center">
   
 <a href="https://github.com/Mettralla/WebApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=WebApp&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=WebApp" />
 </a>
 
 <a href="https://github.com/Mettralla/QuarkDesafio">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=QuarkDesafio&theme=midnight-purple" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=QuarkDesafio" />
 </a>
 
 <a href="https://github.com/Mettralla/old_alkemy_challenge_disney_api">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=old_alkemy_challenge_disney_api&theme=midnight-purple" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=old_alkemy_challenge_disney_api" />
 </a>
 
 <a href="https://github.com/Mettralla/GGJ-Heaven-or-Hell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=GGJ-Heaven-or-Hell&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mettralla&repo=GGJ-Heaven-or-Hell" />
 </a>
 </div>
