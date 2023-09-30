@@ -23,12 +23,11 @@
 
 ## 🔭 I'm currently working on
 
-- [Cooking Recipe Manager](https://github.com/Mettralla/recetario_cocina_app) (Revamping an old cooking recipe manager project, transitioning from CSV files to a MySQL database implementation) 
 - Personal Porfolio
 
 ## 🌱 I'm currently learning
 
-- Jekyll
+- ABAP
 - Algorithmic & Data Structures 
 
 ## 💻 My Workplace
@@ -51,12 +50,14 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-EE0000?logo=ruby&logoColor=white">
   <img alt="CPlusPlus" src="https://img.shields.io/badge/C++-276DC3.svg?logo=cplusplus&logoColor=white">
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-FFFFFF.svg?logo=markdown&logoColor=black">
 </p>
 
 ### Frameworks & Libraries
 
 <p>
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-3776AB.svg?logo=flask&logoColor=white">
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-EE0000?logo=rubyonrails&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
   <img alt="RSpec" src="https://img.shields.io/badge/RSpec-EE0000?logo=ruby&logoColor=white">
@@ -75,8 +76,9 @@
 <p>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">    
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-  <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-DC6920?logo=adobeillustrator&logoColor=white">
-  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-3776AB.svg?logo=adobephotoshop&logoColor=white">
+    <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-6f00ff?logo=insomnia&logoColor=white">
+    <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-DC6920?logo=adobeillustrator&logoColor=white">
+    <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-3776AB.svg?logo=adobephotoshop&logoColor=white">
 </p>
 
 ### OS
