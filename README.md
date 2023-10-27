@@ -51,6 +51,7 @@
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-EE0000?logo=ruby&logoColor=white">
   <img alt="CPlusPlus" src="https://img.shields.io/badge/C++-276DC3.svg?logo=cplusplus&logoColor=white">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-FFFFFF.svg?logo=markdown&logoColor=black">
+  <img alt="SAP ABAP" src="https://img.shields.io/badge/ABAP-0FAAFF.svg?logo=sap&logoColor=white">
 </p>
 
 ### Frameworks & Libraries
