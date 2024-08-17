@@ -52,16 +52,19 @@
   <img alt="CPlusPlus" src="https://img.shields.io/badge/C++-276DC3.svg?logo=cplusplus&logoColor=white">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-FFFFFF.svg?logo=markdown&logoColor=black">
   <img alt="SAP ABAP" src="https://img.shields.io/badge/ABAP-0FAAFF.svg?logo=sap&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-EE0000?logo=openjdk&logoColor=#000000">
 </p>
 
 ### Frameworks & Libraries
 
 <p>
+  <img alt="React" src="https://img.shields.io/badge/React-white.svg?logo=react&logoColor=black">
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=green">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-3776AB.svg?logo=flask&logoColor=white">
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-EE0000?logo=rubyonrails&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
   <img alt="RSpec" src="https://img.shields.io/badge/RSpec-EE0000?logo=ruby&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+  <img alt="Bulma" src="https://img.shields.io/badge/Bulma-00D1B2.svg?logo=bulma&logoColor=white">
 </p>
 
 ### Databases
