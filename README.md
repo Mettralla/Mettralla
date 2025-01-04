@@ -67,6 +67,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
   <img alt="Bulma" src="https://img.shields.io/badge/Bulma-00D1B2.svg?logo=bulma&logoColor=white">
   <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-007FFF.svg?logo=mui&logoColor=white">
+  <img alt="Leaflet" src="https://img.shields.io/badge/Leaflet-199900.svg?logo=leaflet&logoColor=white">
 </p>
 
 ### Databases
@@ -75,6 +76,7 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white">
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white">
     <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white">
+    <img alt="PostGIS" src="https://img.shields.io/badge/PostGIS-375EAB.svg?logo=postgresql&logoColor=white">
 </p>
 
 ### Tools
