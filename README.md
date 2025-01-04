@@ -23,21 +23,22 @@
 
 ## 🔭 I'm currently working on
 
-- Personal Porfolio
+- Home Finance Tracker
 
 ## 🌱 I'm currently learning
 
-- ABAP
-- Algorithmic & Data Structures 
+- Java + Spring
+- Data Analysis
 
 ## 💻 My Workplace
 
 <p align='center'>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Intel-Core_i5_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/nvidia-gt%20710-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/AMD-Ryzen_5_7600-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/AMD-Radeon_RX_6700_XT-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white"/>
 </p>
+
 
 ## 💼 Technical Skills
 
@@ -65,6 +66,7 @@
   <img alt="RSpec" src="https://img.shields.io/badge/RSpec-EE0000?logo=ruby&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
   <img alt="Bulma" src="https://img.shields.io/badge/Bulma-00D1B2.svg?logo=bulma&logoColor=white">
+  <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-007FFF.svg?logo=mui&logoColor=white">
 </p>
 
 ### Databases
@@ -81,15 +83,17 @@
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">    
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
     <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-6f00ff?logo=insomnia&logoColor=white">
-    <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-DC6920?logo=adobeillustrator&logoColor=white">
-    <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-3776AB.svg?logo=adobephotoshop&logoColor=white">
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white">
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white">
+    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Lightroom-31A8FF?logo=adobelightroom&logoColor=white">
+    <img alt="Adobe InDesign" src="https://img.shields.io/badge/InDesign-FF3366?logo=adobeindesign&logoColor=white">
 </p>
 
 ### OS
 
 <p>
     <img alt="Xubuntu" src="https://img.shields.io/badge/Xubuntu-orange?logo=ubuntu&logoColor=white">
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white">     
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
 </p>
 
 ## 📈 GitHub Stats 
